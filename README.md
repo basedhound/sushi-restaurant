@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://sushi-1-fv.netlify.app" target="_blank">
-      <img src="public/design/preview.webp" alt="Project Banner">
+      <img src="public/design/preview.png" alt="Project Banner">
     </a>
   <h3 align="center">Sushi Restaurant</h3>
 </div>
@@ -20,10 +20,13 @@
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
-- HTML
-- CSS
-- JavaScript
-- Vite
+- [**HTML**](https://developer.mozilla.org/en-US/docs/Web/HTML) (HyperText Markup Language) is the standard markup language used to create and structure content on the web. It provides the basic building blocks for web pages, defining elements such as headings, paragraphs, images, links, and more. HTML forms the backbone of any web document and is essential for web development.
+
+- [**CSS**](https://developer.mozilla.org/en-US/docs/Web/CSS) (Cascading Style Sheets) is a stylesheet language used to control the presentation and layout of web pages. It allows developers to apply styles such as colors, fonts, spacing, and positioning to HTML elements. CSS enhances the visual appeal and user experience of a website by enabling the separation of content and design.
+
+- [**JavaScript**](https://developer.mozilla.org/en-US/docs/Web/JavaScript) is a versatile programming language that enables interactive and dynamic functionality on web pages. It allows developers to create features like form validation, animations, and asynchronous content loading. JavaScript is essential for building modern web applications and works seamlessly with HTML and CSS to create a complete user experience.
+
+- [**Vite**](https://vitejs.dev/guide/) is a modern front-end build tool that offers a fast and efficient development environment. It leverages ES modules for quick build times and features hot module replacement (HMR) for instant updates, making it ideal for frameworks like React, Vue, and Svelte. Vite's minimal configuration helps streamline development workflows.
 
 
 ## <br/> <a name="features">📝 Features</a>
